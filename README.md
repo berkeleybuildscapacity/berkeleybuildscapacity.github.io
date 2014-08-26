@@ -1,6 +1,3 @@
-BBC Counselor Training
-================================
-
 ##Welcome to the BBC Counselor Training Page
 
 We will be using this page to maintain documentation of the classes, make-up assignments, homeworks and shifts so that it's all in one easy, accessible place.
@@ -15,3 +12,15 @@ T5 - Oct 6 - Anti-Oppression
 T6 - Oct 20 - Beyond HIV (Drugs, STIs, Health Coverage and Referrals)  
 T7 - Nov 3 - DVSA  
 T8 - Nov 17 - Self-Care and Trigger Management  
+
+| Trainees | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | W1 | W2 |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Benny | x | x | | | | | | | | |
+Joan | x | x | | | | | | | | |
+Justin C. | | x | | | | | | | | |
+Justin D. | x | | | | | | | | | |
+Katherine | | | | | | | | | | |
+Kira | | x | | | | | | | | |
+Sid | x | x | | | | | | | | |
+Tina | | x | | | | | | | | |
+Vivean | x | | | | | | | | | |
