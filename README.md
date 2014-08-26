@@ -1,10 +1,9 @@
 ##Welcome to the BBC Counselor Training Page
 
-###Table of Contents  
+We will be using this page to maintain documentation of the classes, make-up assignments, homeworks and shifts so that it's all in one easy, accessible place.
+
 [Classes](#classes)  
 [Make-up Assignments](#makeup)  
-
-We will be using this page to maintain documentation of the classes, make-up assignments, homeworks and shifts so that it's all in one easy, accessible place.
 
 ##<a name="classes"></a>Classes  
 [Syllabus] (https://drive.google.com/file/d/0B3JF36QqNWnLUWU5Zk9DSUZlQkVPS0t4aU5UUm9DZ0UxaG80/edit?usp=sharing)  
@@ -16,6 +15,8 @@ T5 - Oct 6 - Anti-Oppression
 T6 - Oct 20 - Beyond HIV (Drugs, STIs, Health Coverage and Referrals)  
 T7 - Nov 3 - DVSA  
 T8 - Nov 17 - Self-Care and Trigger Management  
+W1 - Fingerstick and Test-Reading | Biohazard Safety  
+W2 - Disclosing Results | Linkage to care  
 
 | Trainees | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | W1 | W2 |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
