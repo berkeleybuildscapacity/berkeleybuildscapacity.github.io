@@ -19,7 +19,7 @@ W1 - Fingerstick and Test-Reading | Biohazard Safety
 W2 - Disclosing Results | Linkage to care  
 
 | Trainees | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | W1 | W2 |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Benny | x | x | | | | | | | | |
 Joan | x | x | | | | | | | | |
 Justin C. | | x | | | | | | | | |
