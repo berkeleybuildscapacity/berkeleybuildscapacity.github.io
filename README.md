@@ -50,6 +50,16 @@ S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)
 | Tina | | | | | |
 | Vivean | | | | | |
 
+| Upcoming Shifts | Day | Time | Trainee | Trainee |
+| :-------------- | :-- | :--- | :------ | :------ |
+| College of Alameda | 8/27 | 11-3 | Benny | Justin |
+| NEED | 8/28 | 5-8:30 | | |
+| Pacific Center | 8/28 | 7:30-10 | | x |
+| Berkeley City College | 9/3 | 11-3 | Tina | |
+| NEED | 9/4 | 5-8:30 | | |
+| Ships | 9/6 | 9:30-1:30 | | |  
+*Email Jason or Brian to sign up. Chart may not be up-to-date, please check the calendar for more information.
+
 ##<a name="makeup"></a>Make-Up Assignments  
 [T1 - Aug 1 - Training Overview | Basic Counseling Skills (OARS)] (https://docs.google.com/document/d/19NHNsXXjXxqMcX259GL64L_2DAROPiuuLHvUaBIS9XU/edit?usp=sharing)  
 T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change  
