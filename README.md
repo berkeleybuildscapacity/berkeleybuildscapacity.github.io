@@ -30,4 +30,23 @@ Sid | x | x | | | | | | | | |
 Tina | | x | | | | | | | | |
 Vivean | x | | | | | | | | | |
 
+##<a name="shifts"></a>Shifts  
+[S1 - Shift Flow | Set-Up | Consent](https://docs.google.com/document/d/1ui0M1-V2GhTsbwLCvp_0OFWf6i_p6hWEDCc-gVEsdy0/edit?usp=sharing)
+S2 - Testing Protocol | Risk Assessment and Paperwork  
+S3 - Mock 1 (Routine Risk Assessment)  
+S4 - Mock 2 (Complicated Risk Assessment with Results and Fingerstick)  
+S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)  
+
+| Trainees | S1 | S2 | S3 | S4 | S5 |
+| :----------------------- | :-----: | :-----: | :-----: | :-----: | :-----: |
+| Benny | 8.20 | | | | |
+Joan | 8.16 | | | | |
+Justin C. | | | | | |
+Justin D. | 8.14 | | | | |
+Katherine | | | | | |
+Kira | | | | | |
+Sid | 8.20 | | | | |
+Tina | | | | | |
+Vivean | | | | | |
+
 ##<a name="makeup"></a>Make-Up Assignments
