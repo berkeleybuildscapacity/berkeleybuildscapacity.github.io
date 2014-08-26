@@ -31,7 +31,7 @@ Tina | | x | | | | | | | | |
 Vivean | x | | | | | | | | | |
 
 ##<a name="shifts"></a>Shifts  
-[S1 - Shift Flow | Set-Up | Consent](https://docs.google.com/document/d/1ui0M1-V2GhTsbwLCvp_0OFWf6i_p6hWEDCc-gVEsdy0/edit?usp=sharing)
+[S1 - Shift Flow | Set-Up | Consent](https://docs.google.com/document/d/1ui0M1-V2GhTsbwLCvp_0OFWf6i_p6hWEDCc-gVEsdy0/edit?usp=sharing)  
 S2 - Testing Protocol | Risk Assessment and Paperwork  
 S3 - Mock 1 (Routine Risk Assessment)  
 S4 - Mock 2 (Complicated Risk Assessment with Results and Fingerstick)  
