@@ -1,8 +1,8 @@
 ##Welcome to the BBC Counselor Training Page
 
-###Table of Contents
-[Classes](#classes)
-[Make-up Assignments](#makeup)
+###Table of Contents  
+[Classes](#classes)  
+[Make-up Assignments](#makeup)  
 
 We will be using this page to maintain documentation of the classes, make-up assignments, homeworks and shifts so that it's all in one easy, accessible place.
 
