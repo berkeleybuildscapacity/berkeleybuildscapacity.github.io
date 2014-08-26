@@ -52,9 +52,9 @@ S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)
 
 ##<a name="makeup"></a>Make-Up Assignments  
 [T1 - Aug 1 - Training Overview | Basic Counseling Skills (OARS)] (https://docs.google.com/document/d/19NHNsXXjXxqMcX259GL64L_2DAROPiuuLHvUaBIS9XU/edit?usp=sharing)  
-[T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change] ()  
+T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change  
 T3 - Sept 8 - Defining Risk | Client-Centered Counseling  
-T4 - Sept 22 - Counseling Tollbox  
+T4 - Sept 22 - Counseling Toolbox  
 T5 - Oct 6 - Anti-Oppression  
 T6 - Oct 20 - Beyond HIV (Drugs, STIs, Health Coverage and Referrals)  
 T7 - Nov 3 - DVSA  
