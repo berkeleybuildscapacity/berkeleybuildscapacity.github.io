@@ -2,6 +2,7 @@
 
 We will be using this page to maintain documentation of the classes, make-up assignments, homeworks and shifts so that it's all in one easy, accessible place.
 
+####Sections
 [Classes](#classes)  
 [Shifts](#shifts)  
 [Make-up Assignments](#makeup)  
