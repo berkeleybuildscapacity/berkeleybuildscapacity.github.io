@@ -62,7 +62,7 @@ S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)
 *Email Jason or Brian to sign up. Chart may not be up-to-date, please check the calendar for more information.
 
 ##<a name="makeup"></a>Make-Up Assignments  
-If you have missed a class, please complete the corresponding make-up assignment below. You can either make a copy of the document or download the document and edit it through Word. Send the completed assignment to Jason (jason@berkeleyfreeclinic.org). While these assignments are intended as make-up assignments, you can do some of the problems to practice some of your counseling skills.
+If you have missed a class, please read the notes for the training in the [classes](#classes) section and complete the corresponding make-up assignment below. You can either make a copy of the document or download the document and edit it through Word. Send the completed assignment to Jason (jason@berkeleyfreeclinic.org). While these assignments are intended as make-up assignments, you can do some of the problems to practice some of your counseling skills.
 
 [T1 - Aug 1 - Training Overview | Basic Counseling Skills (OARS)] (https://docs.google.com/document/d/19NHNsXXjXxqMcX259GL64L_2DAROPiuuLHvUaBIS9XU/edit?usp=sharing)  
 T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change  
