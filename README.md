@@ -53,7 +53,7 @@ S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)
 
 | Upcoming Shifts | Day | Time | Trainee | Trainee |
 | :-------------- | :-- | :--- | :------ | :------ |
-| College of Alameda | 8/27 | 11-3 | Benny | Justin |
+| College of Alameda | 8/27 | 11-3 | Benny (S2) | Justin C. (S1) |
 | NEED | 8/28 | 5-8:30 | | |
 | Pacific Center | 8/28 | 7:30-10 | | x |
 | Berkeley City College | 9/3 | 11-3 | Tina | |
