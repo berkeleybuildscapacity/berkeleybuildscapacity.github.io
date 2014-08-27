@@ -9,8 +9,8 @@ We will be using this page to maintain documentation of the classes, make-up ass
 
 ##<a name="classes"></a>Classes  
 [Syllabus] (https://drive.google.com/file/d/0B3JF36QqNWnLUWU5Zk9DSUZlQkVPS0t4aU5UUm9DZ0UxaG80/edit?usp=sharing)  
-[T1 - Aug 1 - Training Overview | Basic Counseling Skills (OARS)] (https://docs.google.com/document/d/1gzXyuEvV9FkE6Ennchy5sE7-lFYMBcQyLCCaAxCqVkw/edit?usp=sharing)  
-[T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change] (https://docs.google.com/document/d/106S0KLPMKdmYPU8x1XqwlnX8hNjIq7YE3dhAaFNEzPo/edit?usp=sharing)  
+[T1 - Aug 1 - Training Overview | Basic Counseling Skills (OARS)](https://docs.google.com/document/d/1gzXyuEvV9FkE6Ennchy5sE7-lFYMBcQyLCCaAxCqVkw/edit?usp=sharing)  
+[T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change](https://docs.google.com/document/d/106S0KLPMKdmYPU8x1XqwlnX8hNjIq7YE3dhAaFNEzPo/edit?usp=sharing)  
 T3 - Sept 8 - Defining Risk | Client-Centered Counseling  
 T4 - Sept 22 - Counseling Tollbox  
 T5 - Oct 6 - Anti-Oppression  
@@ -64,8 +64,8 @@ S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)
 ##<a name="makeup"></a>Make-Up Assignments  
 If you have missed a class, please read the notes for the training in the [classes](#classes) section and complete the corresponding make-up assignment below. You can either make a copy of the document or download the document and edit it through Word. Send the completed assignment to Jason (jason@berkeleyfreeclinic.org). While these assignments are intended as make-up assignments, you can do some of the problems to practice some of your counseling skills.
 
-[T1 - Aug 1 - Training Overview | Basic Counseling Skills (OARS)] (https://docs.google.com/document/d/19NHNsXXjXxqMcX259GL64L_2DAROPiuuLHvUaBIS9XU/edit?usp=sharing)  
-T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change  
+[T1 - Aug 1 - Training Overview | Basic Counseling Skills (OARS)](https://docs.google.com/document/d/19NHNsXXjXxqMcX259GL64L_2DAROPiuuLHvUaBIS9XU/edit?usp=sharing)  
+[T2 - Aug 25 - Tenants of Harm Reduction Counseling and Behavioral Change](https://docs.google.com/document/d/1bunA1vaqq9w-3x96KFfhcPOcPadoPCuZV-pCgBrOYe0/edit?usp=sharing)  
 T3 - Sept 8 - Defining Risk | Client-Centered Counseling  
 T4 - Sept 22 - Counseling Toolbox  
 T5 - Oct 6 - Anti-Oppression  
