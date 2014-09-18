@@ -35,7 +35,7 @@ W2 - Disclosing Results | Linkage to care
 ##<a name="shifts"></a>Shifts  
 [S1 - Shift Flow | Set-Up | Consent](https://docs.google.com/document/d/1ui0M1-V2GhTsbwLCvp_0OFWf6i_p6hWEDCc-gVEsdy0/edit?usp=sharing)  
 [S2 - Testing Protocol | Risk Assessment and Paperwork](https://docs.google.com/document/d/1LZubUCUU_YIPUTxajOF-9e6D0CUOIjytov5aG9-3llc/edit?usp=sharing)  
-S3 - Mock 1 (Routine Risk Assessment)  
+[S3 - Mock 1 (Routine Risk Assessment)](https://docs.google.com/document/d/1a8q84-IS9A_N9oD2NfzYLnG90DZFuheplQ-LDZNBjEw/edit?usp=sharing)    
 S4 - Mock 2 (Complicated Risk Assessment with Results and Fingerstick)  
 S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)  
 
@@ -44,11 +44,11 @@ S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)
 | Benny | 8.20 | | | | |
 | Joan | 8.16 | | | | |
 | Justin C. | | | | | |
-| Justin D. | 8.14 | | | | |
-| Katherine | | | | | |
+| Justin D. | 8.14 | 9.17 | | | |
+| Katherine | | 9.17 | | | |
 | Kira | | | | | |
 | Sid | 8.20 | | | | |
-| Tina | | | | | |
+| Tina | 9.3 | | | | |
 | Vivean | | | | | |
 
 | Upcoming Shifts | Day | Time | Trainee | Trainee |
