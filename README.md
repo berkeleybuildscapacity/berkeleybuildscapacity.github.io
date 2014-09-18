@@ -22,15 +22,15 @@ W2 - Disclosing Results | Linkage to care
 
 | Trainees | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | W1 | W2 |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Benny | x | x | | | | | | | | |
-| Joan | x | x | | | | | | | | |
-| Justin C. | | x | | | | | | | | |
-| Justin D. | x | | | | | | | | | |
-| Katherine | | | | | | | | | | |
-| Kira | | x | | | | | | | | |
-| Sid | x | x | | | | | | | | |
+| Benny | x | x | x | | | | | | | |
+| Joan | x | x | x | | | | | | | |
+| Justin C. | | x | x | | | | | | | |
+| Justin D. | x | | x | | | | | | | |
+| Katherine | o | o | x | | | | | | | |
+| Kira | | x | x | | | | | | | |
+| Sid | x | x | x | | | | | | | |
 | Tina | | x | | | | | | | | |
-| Vivean | x | | | | | | | | | |
+| Vivean | x |  | x | | | | | | | |
 
 ##<a name="shifts"></a>Shifts  
 [S1 - Shift Flow | Set-Up | Consent](https://docs.google.com/document/d/1ui0M1-V2GhTsbwLCvp_0OFWf6i_p6hWEDCc-gVEsdy0/edit?usp=sharing)  
