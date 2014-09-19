@@ -47,7 +47,7 @@ S5 - Mock 3 (Complicated Risk Assessment with Reactive Disclosure)
 | Justin D. | 8.14 | 9.17 | | | |
 | Katherine | | 9.17 | | | |
 | Kira | | | | | |
-| Sid | 8.20 | | | | |
+| Sid | 8.20 | | 9.18  | | |
 | Tina | 9.3 | | | | |
 | Vivean | | | | | |
 
